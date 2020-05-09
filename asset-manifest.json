@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/taevo/static/css/main.1029b2e7.chunk.css",
+    "main.js": "/taevo/static/js/main.c8ab7451.chunk.js",
+    "main.js.map": "/taevo/static/js/main.c8ab7451.chunk.js.map",
+    "runtime-main.js": "/taevo/static/js/runtime-main.6ee4a4ae.js",
+    "runtime-main.js.map": "/taevo/static/js/runtime-main.6ee4a4ae.js.map",
+    "static/js/2.24b67b8f.chunk.js": "/taevo/static/js/2.24b67b8f.chunk.js",
+    "static/js/2.24b67b8f.chunk.js.map": "/taevo/static/js/2.24b67b8f.chunk.js.map",
+    "index.html": "/taevo/index.html",
+    "precache-manifest.08e60567f5f73f079b96661c0e1ae5d4.js": "/taevo/precache-manifest.08e60567f5f73f079b96661c0e1ae5d4.js",
+    "service-worker.js": "/taevo/service-worker.js",
+    "static/css/main.1029b2e7.chunk.css.map": "/taevo/static/css/main.1029b2e7.chunk.css.map",
+    "static/js/2.24b67b8f.chunk.js.LICENSE.txt": "/taevo/static/js/2.24b67b8f.chunk.js.LICENSE.txt",
+    "static/media/AppBanner.css": "/taevo/static/media/bg-ipad@2x.f015b196.png",
+    "static/media/Services.css": "/taevo/static/media/bg-services.7445865b.svg",
+    "static/media/document-settings.svg": "/taevo/static/media/document-settings.cb5adc17.svg",
+    "static/media/exit-white.svg": "/taevo/static/media/exit-white.3d129382.svg",
+    "static/media/facebook.svg": "/taevo/static/media/facebook.97de0aa6.svg",
+    "static/media/hr-atoms.png": "/taevo/static/media/hr-atoms.a9b1c12a.png",
+    "static/media/html.svg": "/taevo/static/media/html.8005e768.svg",
+    "static/media/imageReporting.png": "/taevo/static/media/imageReporting.7c3474ce.png",
+    "static/media/imageTraining.png": "/taevo/static/media/imageTraining.409de4d6.png",
+    "static/media/job.svg": "/taevo/static/media/job.33b14d8e.svg",
+    "static/media/linkedin-icon.svg": "/taevo/static/media/linkedin-icon.0bf2b9a5.svg",
+    "static/media/logo-full-color.svg": "/taevo/static/media/logo-full-color.91bd7da2.svg",
+    "static/media/menu-icon.svg": "/taevo/static/media/menu-icon.ec5bad2e.svg",
+    "static/media/office.svg": "/taevo/static/media/office.dfda738a.svg",
+    "static/media/password.svg": "/taevo/static/media/password.667e8ccb.svg",
+    "static/media/recruiting-atoms.png": "/taevo/static/media/recruiting-atoms.24c3ed30.png",
+    "static/media/smartphone.svg": "/taevo/static/media/smartphone.86b77da6.svg",
+    "static/media/tick.svg": "/taevo/static/media/tick.3d03ad2f.svg",
+    "static/media/twitter.svg": "/taevo/static/media/twitter.7303a958.svg",
+    "static/media/work.svg": "/taevo/static/media/work.d7c926fa.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ee4a4ae.js",
+    "static/js/2.24b67b8f.chunk.js",
+    "static/css/main.1029b2e7.chunk.css",
+    "static/js/main.c8ab7451.chunk.js"
+  ]
+}
