@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/taevo-website/static/css/main.e8cd8adc.chunk.css",
+    "main.css": "/taevo-website/static/css/main.b6e3d712.chunk.css",
     "main.js": "/taevo-website/static/js/main.8f86ba0c.chunk.js",
     "main.js.map": "/taevo-website/static/js/main.8f86ba0c.chunk.js.map",
     "runtime-main.js": "/taevo-website/static/js/runtime-main.f1245aa8.js",
@@ -8,11 +8,11 @@
     "static/js/2.678b6a4d.chunk.js": "/taevo-website/static/js/2.678b6a4d.chunk.js",
     "static/js/2.678b6a4d.chunk.js.map": "/taevo-website/static/js/2.678b6a4d.chunk.js.map",
     "index.html": "/taevo-website/index.html",
-    "precache-manifest.ce600a32cc23b2a5f45763e611a266a9.js": "/taevo-website/precache-manifest.ce600a32cc23b2a5f45763e611a266a9.js",
+    "precache-manifest.c3bc9bba41e530c3ef73a6ad31a5ad2a.js": "/taevo-website/precache-manifest.c3bc9bba41e530c3ef73a6ad31a5ad2a.js",
     "service-worker.js": "/taevo-website/service-worker.js",
-    "static/css/main.e8cd8adc.chunk.css.map": "/taevo-website/static/css/main.e8cd8adc.chunk.css.map",
+    "static/css/main.b6e3d712.chunk.css.map": "/taevo-website/static/css/main.b6e3d712.chunk.css.map",
     "static/js/2.678b6a4d.chunk.js.LICENSE.txt": "/taevo-website/static/js/2.678b6a4d.chunk.js.LICENSE.txt",
-    "static/media/AppBanner.css": "/taevo-website/static/media/bg-ipad@2x.f015b196.png",
+    "static/media/AppBanner.css": "/taevo-website/static/media/bg-ipad@2x.6c489023.png",
     "static/media/Services.css": "/taevo-website/static/media/bg-services.7445865b.svg",
     "static/media/customer-icon.svg": "/taevo-website/static/media/customer-icon.9177f071.svg",
     "static/media/exit-white.svg": "/taevo-website/static/media/exit-white.3d129382.svg",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.f1245aa8.js",
     "static/js/2.678b6a4d.chunk.js",
-    "static/css/main.e8cd8adc.chunk.css",
+    "static/css/main.b6e3d712.chunk.css",
     "static/js/main.8f86ba0c.chunk.js"
   ]
 }

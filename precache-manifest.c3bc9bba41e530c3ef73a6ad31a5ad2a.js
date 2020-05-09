@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c654711e92d7df674fdbe56a05a55ae",
+    "revision": "39f9fdb9e930a4c52a0997c5c204765f",
     "url": "/taevo-website/index.html"
   },
   {
-    "revision": "61745cfff630ae8f1e98",
-    "url": "/taevo-website/static/css/main.e8cd8adc.chunk.css"
+    "revision": "196d922d94ae437fadd9",
+    "url": "/taevo-website/static/css/main.b6e3d712.chunk.css"
   },
   {
     "revision": "8b905bd81239e40356fd",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taevo-website/static/js/2.678b6a4d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "61745cfff630ae8f1e98",
+    "revision": "196d922d94ae437fadd9",
     "url": "/taevo-website/static/js/main.8f86ba0c.chunk.js"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taevo-website/static/media/bg-banner@2x.a807aa96.png"
   },
   {
-    "revision": "f015b196e2c32ebc2c2cd2de0aff73cf",
-    "url": "/taevo-website/static/media/bg-ipad@2x.f015b196.png"
+    "revision": "6c48902322049f2506e5d765e1bdd9e8",
+    "url": "/taevo-website/static/media/bg-ipad@2x.6c489023.png"
   },
   {
     "revision": "7445865b7d0b75cfe8530bf1b7937cc2",
