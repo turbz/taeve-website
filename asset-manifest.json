@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/taevo-website/static/css/main.b6e3d712.chunk.css",
-    "main.js": "/taevo-website/static/js/main.36c3042e.chunk.js",
-    "main.js.map": "/taevo-website/static/js/main.36c3042e.chunk.js.map",
+    "main.js": "/taevo-website/static/js/main.48b33ca2.chunk.js",
+    "main.js.map": "/taevo-website/static/js/main.48b33ca2.chunk.js.map",
     "runtime-main.js": "/taevo-website/static/js/runtime-main.f1245aa8.js",
     "runtime-main.js.map": "/taevo-website/static/js/runtime-main.f1245aa8.js.map",
     "static/js/2.678b6a4d.chunk.js": "/taevo-website/static/js/2.678b6a4d.chunk.js",
     "static/js/2.678b6a4d.chunk.js.map": "/taevo-website/static/js/2.678b6a4d.chunk.js.map",
     "index.html": "/taevo-website/index.html",
-    "precache-manifest.6c278365fd58130096a28f7e6f411a11.js": "/taevo-website/precache-manifest.6c278365fd58130096a28f7e6f411a11.js",
+    "precache-manifest.a0e5f9e4464573c0c1236444ad42ae68.js": "/taevo-website/precache-manifest.a0e5f9e4464573c0c1236444ad42ae68.js",
     "service-worker.js": "/taevo-website/service-worker.js",
     "static/css/main.b6e3d712.chunk.css.map": "/taevo-website/static/css/main.b6e3d712.chunk.css.map",
     "static/js/2.678b6a4d.chunk.js.LICENSE.txt": "/taevo-website/static/js/2.678b6a4d.chunk.js.LICENSE.txt",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.f1245aa8.js",
     "static/js/2.678b6a4d.chunk.js",
     "static/css/main.b6e3d712.chunk.css",
-    "static/js/main.36c3042e.chunk.js"
+    "static/js/main.48b33ca2.chunk.js"
   ]
 }
