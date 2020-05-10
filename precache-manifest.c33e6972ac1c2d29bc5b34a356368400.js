@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0aa8c333bb649f62dc0df400f3a1f87d",
+    "revision": "828ecad616ee79023615fcd6ceb6ea00",
     "url": "/taevo-website/index.html"
   },
   {
-    "revision": "2d8882a6ff7050b6d4c5",
-    "url": "/taevo-website/static/css/main.b6e3d712.chunk.css"
+    "revision": "7d217ff1f4e086ff397d",
+    "url": "/taevo-website/static/css/main.da59687b.chunk.css"
   },
   {
     "revision": "8b905bd81239e40356fd",
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taevo-website/static/js/2.678b6a4d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d8882a6ff7050b6d4c5",
-    "url": "/taevo-website/static/js/main.6faf977b.chunk.js"
+    "revision": "7d217ff1f4e086ff397d",
+    "url": "/taevo-website/static/js/main.045f983a.chunk.js"
   },
   {
     "revision": "2cabc7c2878c15ab2f13",
     "url": "/taevo-website/static/js/runtime-main.f1245aa8.js"
   },
   {
-    "revision": "a807aa9636c6c227c8fe818f33a0cd14",
-    "url": "/taevo-website/static/media/bg-banner@2x.a807aa96.png"
+    "revision": "3fdd52112df9948cbead231cb8781776",
+    "url": "/taevo-website/static/media/bg-banner.3fdd5211.png"
   },
   {
     "revision": "6c48902322049f2506e5d765e1bdd9e8",
@@ -48,16 +48,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taevo-website/static/media/facebook.97de0aa6.svg"
   },
   {
-    "revision": "a9b1c12a446cc22ecb7b7cc7cc3ee6aa",
-    "url": "/taevo-website/static/media/hr-atoms.a9b1c12a.png"
+    "revision": "2429634bfa97dd14d588d51d9db20e8f",
+    "url": "/taevo-website/static/media/hr-atoms.2429634b.png"
   },
   {
-    "revision": "7c3474ce8f9b94b0b1357882280ba8af",
-    "url": "/taevo-website/static/media/imageReporting.7c3474ce.png"
+    "revision": "fa17d4881414458498ca6000e587b04c",
+    "url": "/taevo-website/static/media/imageReporting.fa17d488.png"
   },
   {
-    "revision": "409de4d64b5675eb20c1ae53eb5716c1",
-    "url": "/taevo-website/static/media/imageTraining.409de4d6.png"
+    "revision": "72baed58481503907485895972f33461",
+    "url": "/taevo-website/static/media/imageTraining.72baed58.png"
   },
   {
     "revision": "33b14d8ea82efafc63441daca12e45a7",
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taevo-website/static/media/password.667e8ccb.svg"
   },
   {
-    "revision": "24c3ed30bdd2338a5e8ede05ec007589",
-    "url": "/taevo-website/static/media/recruiting-atoms.24c3ed30.png"
+    "revision": "1acb7679dfd9be273c673cdf2a6d0656",
+    "url": "/taevo-website/static/media/recruiting-atoms.1acb7679.png"
   },
   {
     "revision": "aa137f8ab2aa53f48d45cc1196bea56b",
