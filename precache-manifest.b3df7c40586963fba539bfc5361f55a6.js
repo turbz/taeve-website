@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62e2d063a9ce9cee02c1699726a24f95",
+    "revision": "e40da11cae85fc5012fd780d271a68fe",
     "url": "/taevo-website/index.html"
   },
   {
-    "revision": "6acfe50f21f7b8373998",
+    "revision": "326374afce435f55c5c9",
     "url": "/taevo-website/static/css/main.b6e3d712.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taevo-website/static/js/2.678b6a4d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6acfe50f21f7b8373998",
-    "url": "/taevo-website/static/js/main.ce0a17a1.chunk.js"
+    "revision": "326374afce435f55c5c9",
+    "url": "/taevo-website/static/js/main.b3e1f8f1.chunk.js"
   },
   {
     "revision": "2cabc7c2878c15ab2f13",
