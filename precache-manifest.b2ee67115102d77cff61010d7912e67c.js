@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "311bb92e6621f6e12b82e4dd53339471",
+    "revision": "be701fd7e8161f6130f8973589fc8055",
     "url": "/taevo-website/index.html"
   },
   {
-    "revision": "907d9a3b935e081a866a",
-    "url": "/taevo-website/static/css/main.692b3aed.chunk.css"
+    "revision": "70f4781c1f393146655a",
+    "url": "/taevo-website/static/css/2.c1fbfcd2.chunk.css"
   },
   {
-    "revision": "8b905bd81239e40356fd",
-    "url": "/taevo-website/static/js/2.678b6a4d.chunk.js"
+    "revision": "1ab54d2cf6fd78f389bd",
+    "url": "/taevo-website/static/css/main.f859c3a8.chunk.css"
+  },
+  {
+    "revision": "70f4781c1f393146655a",
+    "url": "/taevo-website/static/js/2.f2e0c00a.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/taevo-website/static/js/2.678b6a4d.chunk.js.LICENSE.txt"
+    "url": "/taevo-website/static/js/2.f2e0c00a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "907d9a3b935e081a866a",
-    "url": "/taevo-website/static/js/main.045f983a.chunk.js"
+    "revision": "1ab54d2cf6fd78f389bd",
+    "url": "/taevo-website/static/js/main.e681c6f1.chunk.js"
   },
   {
     "revision": "2cabc7c2878c15ab2f13",
@@ -26,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4716c2367b5ee191b4c09790b78531cd",
     "url": "/taevo-website/static/media/bg-banner.4716c236.png"
+  },
+  {
+    "revision": "a32e6de82eefe0c9be93734d37c3273a",
+    "url": "/taevo-website/static/media/bg-ipad-nav@2x.a32e6de8.png"
   },
   {
     "revision": "6c48902322049f2506e5d765e1bdd9e8",
@@ -42,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3d129382121e65977c838aae6999aabf",
     "url": "/taevo-website/static/media/exit-white.3d129382.svg"
+  },
+  {
+    "revision": "3727299debb312d977c39afa4de0048a",
+    "url": "/taevo-website/static/media/exit.3727299d.svg"
   },
   {
     "revision": "97de0aa6eb9d584aac00695c3cfc7a95",

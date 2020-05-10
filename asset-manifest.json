@@ -1,21 +1,25 @@
 {
   "files": {
-    "main.css": "/taevo-website/static/css/main.692b3aed.chunk.css",
-    "main.js": "/taevo-website/static/js/main.045f983a.chunk.js",
-    "main.js.map": "/taevo-website/static/js/main.045f983a.chunk.js.map",
+    "main.css": "/taevo-website/static/css/main.f859c3a8.chunk.css",
+    "main.js": "/taevo-website/static/js/main.e681c6f1.chunk.js",
+    "main.js.map": "/taevo-website/static/js/main.e681c6f1.chunk.js.map",
     "runtime-main.js": "/taevo-website/static/js/runtime-main.f1245aa8.js",
     "runtime-main.js.map": "/taevo-website/static/js/runtime-main.f1245aa8.js.map",
-    "static/js/2.678b6a4d.chunk.js": "/taevo-website/static/js/2.678b6a4d.chunk.js",
-    "static/js/2.678b6a4d.chunk.js.map": "/taevo-website/static/js/2.678b6a4d.chunk.js.map",
+    "static/css/2.c1fbfcd2.chunk.css": "/taevo-website/static/css/2.c1fbfcd2.chunk.css",
+    "static/js/2.f2e0c00a.chunk.js": "/taevo-website/static/js/2.f2e0c00a.chunk.js",
+    "static/js/2.f2e0c00a.chunk.js.map": "/taevo-website/static/js/2.f2e0c00a.chunk.js.map",
     "index.html": "/taevo-website/index.html",
-    "precache-manifest.b09a38f7b3cbd41401f9423800253703.js": "/taevo-website/precache-manifest.b09a38f7b3cbd41401f9423800253703.js",
+    "precache-manifest.b2ee67115102d77cff61010d7912e67c.js": "/taevo-website/precache-manifest.b2ee67115102d77cff61010d7912e67c.js",
     "service-worker.js": "/taevo-website/service-worker.js",
-    "static/css/main.692b3aed.chunk.css.map": "/taevo-website/static/css/main.692b3aed.chunk.css.map",
-    "static/js/2.678b6a4d.chunk.js.LICENSE.txt": "/taevo-website/static/js/2.678b6a4d.chunk.js.LICENSE.txt",
+    "static/css/2.c1fbfcd2.chunk.css.map": "/taevo-website/static/css/2.c1fbfcd2.chunk.css.map",
+    "static/css/main.f859c3a8.chunk.css.map": "/taevo-website/static/css/main.f859c3a8.chunk.css.map",
+    "static/js/2.f2e0c00a.chunk.js.LICENSE.txt": "/taevo-website/static/js/2.f2e0c00a.chunk.js.LICENSE.txt",
     "static/media/AppBanner.css": "/taevo-website/static/media/bg-ipad@2x.6c489023.png",
+    "static/media/AppHeader.css": "/taevo-website/static/media/bg-ipad-nav@2x.a32e6de8.png",
     "static/media/Services.css": "/taevo-website/static/media/bg-services.7445865b.svg",
     "static/media/customer-icon.svg": "/taevo-website/static/media/customer-icon.9177f071.svg",
     "static/media/exit-white.svg": "/taevo-website/static/media/exit-white.3d129382.svg",
+    "static/media/exit.svg": "/taevo-website/static/media/exit.3727299d.svg",
     "static/media/facebook.svg": "/taevo-website/static/media/facebook.97de0aa6.svg",
     "static/media/hr-atoms.png": "/taevo-website/static/media/hr-atoms.2429634b.png",
     "static/media/imageReporting.png": "/taevo-website/static/media/imageReporting.fa17d488.png",
@@ -36,8 +40,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f1245aa8.js",
-    "static/js/2.678b6a4d.chunk.js",
-    "static/css/main.692b3aed.chunk.css",
-    "static/js/main.045f983a.chunk.js"
+    "static/css/2.c1fbfcd2.chunk.css",
+    "static/js/2.f2e0c00a.chunk.js",
+    "static/css/main.f859c3a8.chunk.css",
+    "static/js/main.e681c6f1.chunk.js"
   ]
 }
