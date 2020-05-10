@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/taevo-website/precache-manifest.b2ee67115102d77cff61010d7912e67c.js"
+  "/taevo-website/precache-manifest.c2189887f0a703f9ace079932ed28073.js"
 );
 
 self.addEventListener('message', (event) => {
