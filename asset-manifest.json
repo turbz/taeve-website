@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.8e2f7e79.chunk.css",
-    "main.js": "/static/js/main.880cec34.chunk.js",
-    "main.js.map": "/static/js/main.880cec34.chunk.js.map",
+    "main.css": "/static/css/main.d90a5d30.chunk.css",
+    "main.js": "/static/js/main.d446d78b.chunk.js",
+    "main.js.map": "/static/js/main.d446d78b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7686a62c.js",
     "runtime-main.js.map": "/static/js/runtime-main.7686a62c.js.map",
     "static/css/2.c1fbfcd2.chunk.css": "/static/css/2.c1fbfcd2.chunk.css",
-    "static/js/2.f2e0c00a.chunk.js": "/static/js/2.f2e0c00a.chunk.js",
-    "static/js/2.f2e0c00a.chunk.js.map": "/static/js/2.f2e0c00a.chunk.js.map",
+    "static/js/2.afc0f5dc.chunk.js": "/static/js/2.afc0f5dc.chunk.js",
+    "static/js/2.afc0f5dc.chunk.js.map": "/static/js/2.afc0f5dc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bd05bac699024299c210d951d50f1b5f.js": "/precache-manifest.bd05bac699024299c210d951d50f1b5f.js",
+    "precache-manifest.9a80cdb36cf0d1e868d7438976e5295c.js": "/precache-manifest.9a80cdb36cf0d1e868d7438976e5295c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.c1fbfcd2.chunk.css.map": "/static/css/2.c1fbfcd2.chunk.css.map",
-    "static/css/main.8e2f7e79.chunk.css.map": "/static/css/main.8e2f7e79.chunk.css.map",
-    "static/js/2.f2e0c00a.chunk.js.LICENSE.txt": "/static/js/2.f2e0c00a.chunk.js.LICENSE.txt",
-    "static/media/AppBanner.css": "/static/media/bg-ipad@2x.6c489023.png",
+    "static/css/main.d90a5d30.chunk.css.map": "/static/css/main.d90a5d30.chunk.css.map",
+    "static/js/2.afc0f5dc.chunk.js.LICENSE.txt": "/static/js/2.afc0f5dc.chunk.js.LICENSE.txt",
+    "static/media/bg-banner-2.png": "/static/media/bg-banner-2.49124d2e.png",
+    "static/media/bg-banner-3.png": "/static/media/bg-banner-3.a25927bd.png",
+    "static/media/bg-banner.png": "/static/media/bg-banner.4716c236.png",
     "static/media/AppHeader.css": "/static/media/bg-ipad-nav@2x.a32e6de8.png",
+    "static/media/AppBanner.css": "/static/media/bg-ipad@2x.6c489023.png",
     "static/media/Services.css": "/static/media/bg-services.7445865b.svg",
     "static/media/customer-icon.svg": "/static/media/customer-icon.9177f071.svg",
     "static/media/exit-white.svg": "/static/media/exit-white.3d129382.svg",
@@ -41,8 +44,8 @@
   "entrypoints": [
     "static/js/runtime-main.7686a62c.js",
     "static/css/2.c1fbfcd2.chunk.css",
-    "static/js/2.f2e0c00a.chunk.js",
-    "static/css/main.8e2f7e79.chunk.css",
-    "static/js/main.880cec34.chunk.js"
+    "static/js/2.afc0f5dc.chunk.js",
+    "static/css/main.d90a5d30.chunk.css",
+    "static/js/main.d446d78b.chunk.js"
   ]
 }
