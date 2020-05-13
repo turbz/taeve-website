@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f41a9562818ce3196300738d2e2c097f",
+    "revision": "6307ee60e77213ed46ab8a8598c2c79d",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.c1fbfcd2.chunk.css"
   },
   {
-    "revision": "477cb8086defaa6b8a99",
-    "url": "/static/css/main.291a581a.chunk.css"
+    "revision": "b7df48f2fa110fb99b87",
+    "url": "/static/css/main.27bf9af6.chunk.css"
   },
   {
     "revision": "c0b5d58935672f3138cc",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.afc0f5dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "477cb8086defaa6b8a99",
-    "url": "/static/js/main.d446d78b.chunk.js"
+    "revision": "b7df48f2fa110fb99b87",
+    "url": "/static/js/main.a989bc36.chunk.js"
   },
   {
     "revision": "77c21fdf50ad613a02d2",
@@ -40,12 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bg-banner.4716c236.png"
   },
   {
-    "revision": "a32e6de82eefe0c9be93734d37c3273a",
-    "url": "/static/media/bg-ipad-nav@2x.a32e6de8.png"
+    "revision": "24453d4ffe1c83e0c8e69044b1218008",
+    "url": "/static/media/bg-ipad-nav.24453d4f.png"
   },
   {
-    "revision": "6c48902322049f2506e5d765e1bdd9e8",
-    "url": "/static/media/bg-ipad@2x.6c489023.png"
+    "revision": "2463846a0db122589fed3a6ce27598ab",
+    "url": "/static/media/bg-ipad.2463846a.png"
   },
   {
     "revision": "7445865b7d0b75cfe8530bf1b7937cc2",
@@ -72,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/hr-atoms.2429634b.png"
   },
   {
-    "revision": "fa17d4881414458498ca6000e587b04c",
-    "url": "/static/media/imageReporting.fa17d488.png"
+    "revision": "ca769da41145ad96d5b13555afea8437",
+    "url": "/static/media/imageReporting.ca769da4.png"
   },
   {
-    "revision": "72baed58481503907485895972f33461",
-    "url": "/static/media/imageTraining.72baed58.png"
+    "revision": "db540427fb6a8c2fecc4f01ef0843009",
+    "url": "/static/media/imageTraining.db540427.png"
   },
   {
     "revision": "33b14d8ea82efafc63441daca12e45a7",
